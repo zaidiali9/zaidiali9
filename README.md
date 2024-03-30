@@ -42,19 +42,19 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidiali9&layout=compact&theme=" alt=zaidiali9 />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidiali9&hide_progress=true&theme=dark" alt=zaidiali9 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=zaidiali9&show_icons=true&locale=en&theme=" alt="zaidiali9" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=zaidiali9&show_icons=true&locale=en&theme=dark" alt="zaidiali9" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidiali9&theme=" alt="zaidiali9" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidiali9&theme=dark" alt="zaidiali9" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/zaidiali9">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zaidiali9&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zaidiali9&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zaidiali9&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zaidiali9&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zaidiali9&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zaidiali9&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zaidiali9&theme=dark" height="180em" />
 </div>
 
