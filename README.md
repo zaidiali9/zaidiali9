@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Syed Ali Hassan Zaidi</h1>
 <h3 align="center">Experienced Web & App Developer | CS Junior</h3>
 <div> <a href="https://www.linkedin.com/in/syed-ali-hassan-zaidi-6ab5a725b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -57,5 +56,3 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zaidiali9&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zaidiali9&theme=dark" height="180em" />
 </div>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
